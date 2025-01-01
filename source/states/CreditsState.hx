@@ -39,7 +39,7 @@ class CreditsState extends MusicBeatState
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Recode Peeps'],
-			['BobbyDX',				'bobby',			'Created P-Slice Recode Edition',								'https://github.com/bobbydeluxe'			'ffdd33'],
+			['BobbyDX',				'bobby',			'Created P-Slice Recode Edition',								'https://github.com/bobbydeluxe',			'ffdd33'],
 			[''],
 			['P-Slice Engine Team'],
 			['Mikolka9144',			'mikolka',			'Did everything for P-slice',								 'https://gamebanana.com/members/3329541',									'2ebcfa'],
