@@ -2,7 +2,7 @@
 
 friday night funkin' p-slice engine but from a blank slate
 
-just necessary week 1 assets so you can tweak the base game by installing the [base fnf content modpack](https://github.com/bobbydeluxe/basefnf_luareq)
+just necessary week 1 assets so you can tweak the base game by installing the [base fnf content modpack](https://github.com/bobbydeluxe/basefnf-luareq)
 
 if you wanna compile, please check out [here](https://github.com/ShadowMario/FNF-PsychEngine/blob/main/BUILDING.md)
 
